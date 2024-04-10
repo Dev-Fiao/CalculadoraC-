@@ -1,0 +1,10 @@
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\obj\Debug\Calculadora_completa.Form1.resources
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\obj\Debug\Calculadora_completa.Properties.Resources.resources
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\obj\Debug\Calculadora completa.csproj.GenerateResource.cache
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\obj\Debug\Calculadora completa.csproj.CoreCompileInputs.cache
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\bin\Debug\Calculadora completa.exe.config
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\bin\Debug\Calculadora completa.exe
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\bin\Debug\Calculadora completa.pdb
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\obj\Debug\Calculadora completa.exe
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\obj\Debug\Calculadora completa.pdb
+C:\Users\eric.fernandes\source\repos\Fatoral\Calculadora completa\obj\Debug\Calculadora completa.csproj.AssemblyReference.cache
